@@ -18,6 +18,13 @@ The Yoga Center Management System offers a range of powerful features to enhance
 8.  Notifications and Reminders: The system sends notifications and reminders to trainees regarding upcoming classes, payment due dates, and important announcements.
 9.  Reporting and Analytics: Administrators have access to reporting and analytics tools to track key metrics.
 
+## Screen-shots
+
+![Home Page](https://github.com/duong-hong-quan/YogaCenter-FrontEnd/blob/main/screenshots/HomePage.png)
+![ Detail](https://github.com/duong-hong-quan/YogaCenter-FrontEnd/blob/main/screenshots/CourseDetail.png)
+![Blog](https://github.com/duong-hong-quan/YogaCenter-FrontEnd/blob/main/screenshots/Blog.png)
+![Admin Page](https://github.com/duong-hong-quan/YogaCenter-FrontEnd/blob/main/screenshots/Admin.png)
+
 ## How to use?
 
 Our website includes 4 roles: admin, staff, trainer and trainee. Below are some sample accounts used to login to the page to view the interfaces and functions corresponding to each role.
@@ -53,12 +60,9 @@ Trainee not yet registered for the class:
 
 We would like to acknowledge the following individuals and projects for their contributions and inspiration to the Yoga Management System:
 
-### Front-end:
-
-- Châu Thị Ngọc Trâm
-- Huỳnh Minh Thuân
-
-### Back-end:
-
-- Dương Hồng Quân
-- Phạm Bùi Minh Khang
+### Front end:
+- [chaungoctram](https://github.com/chaungoctram)
+- [hmtminhthuan](https://github.com/hmtminhthuan)
+### Back end:
+- [duong-hong-quan](https://github.com/duong-hong-quan)
+- [KhangPhamBM](https://github.com/KhangPhamBM)
